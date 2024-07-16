@@ -2,6 +2,8 @@
 
 This is a Symfony API that allows waiters, barmen and bosses to manage data.
 
+Only member of this project : Romain LAURENT
+
 ## ENV VARIABLES
 
 `JWT_PASSPHRASE` = to generate with the command `php bin/console lexik:jwt:generate-keypair`
